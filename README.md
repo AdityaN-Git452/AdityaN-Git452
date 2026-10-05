@@ -1,5 +1,11 @@
 <div align="center">
 
+<h1 align="center">👋 Hi, I'm Aditya N</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+My+GitHub!;AI+%26+Data+Science;Learn.+Build.+Innovate." width="100%" alt="Aditya N — AI and Data Science" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Aditya%20N&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineering&descAlignY=60&descSize=20" width="100%" alt="Aditya N banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Aditya;AI+%26+Data+Science+Engineering+Student;IEEE+RAS+ExeCom+Member;Curiosity+is+where+innovation+begins." width="100%" alt="Animated introduction" />
