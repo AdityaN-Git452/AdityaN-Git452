@@ -119,3 +119,23 @@ Open to project discussions, collaboration, and learning together.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=140&section=footer&text=Keep%20Building!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="Animated footer" />
 
 </div>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=1600&color=FBBF24&center=true&vCenter=true&width=600&lines=Take+a+Break.+Play+a+Game!;Can+you+reach+2048%3F;Think.+Slide.+Combine.+Repeat." width="100%" alt="Animated game heading" />
+
+### 🎮 The 2048 Challenge
+
+Combine matching tiles and try to reach **2048**! 🏆
+
+[![Play 2048](https://img.shields.io/badge/🎮_PLAY_2048-FF9800?style=for-the-badge)](https://play2048.co/)
+
+🖥️ **Computer:** Use your arrow keys.  
+📱 **Phone:** Swipe to move the tiles.
+
+*Click the button to open the game.*
+
+</div>
+
+---
